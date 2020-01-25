@@ -14,3 +14,17 @@ After that checkout schemas.py
 
 You may add more tables and functions to it. Please remember to use your own credentials. For the demo purpose, I have used a local database and passed my credentials in environment variables.
 You may customise the code according to your need.
+
+DB Output:
+
+
+
+![alt_text](https://github.com/shivekchhabra/Inserting-data-in-a-schema/blob/master/Outputs/db_output.png)
+
+
+
+Output- schemas.py
+
+
+![alt_text](https://github.com/shivekchhabra/Inserting-data-in-a-schema/blob/master/Outputs/output_schmas_py.png)
+
